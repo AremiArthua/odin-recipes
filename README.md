@@ -1,0 +1,1 @@
+A simple HTML project made of few recipes made bz the instructions in TheOdinProject.
